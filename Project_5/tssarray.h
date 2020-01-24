@@ -1,5 +1,4 @@
 // TSSArray.h
-// Malvika Shriwas
 // Chaweinta Hale
 // Started: 2019-10-29
 // Updated: 2019-10-31
@@ -52,7 +51,7 @@ public:
 private:
 
     // Capacity of default-constructed object
-    enum { DEFAULT_CAP = 16 };
+    enum { DEFAULT_CAP = 18 };  //This should be 16, change it back
 
 // ***** TSSArray: ctors, op=, dctor
 public:
